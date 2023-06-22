@@ -20,3 +20,4 @@ Started by cleaning the data:
 
 -Located outlier values and checked if they are reasonable and proportionate
 
+- Testing git changes
