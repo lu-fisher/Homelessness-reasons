@@ -19,5 +19,3 @@ Started by cleaning the data:
 -Checked for null values and filled with mean values
 
 -Located outlier values and checked if they are reasonable and proportionate
-
-- Testing git changes
