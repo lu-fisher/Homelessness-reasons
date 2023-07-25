@@ -1,27 +1,23 @@
-"Table A2P - Number of households owed a prevention duty by reason for loss, or threat of loss, of last settled home
-England, October to December 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Table A2P - Number of households owed a prevention duty by reason for loss, or threat of loss, of last settled homeEngland, October to December 2022",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39
 ,,,,,,End of private rented tenancy - assured shorthold,,,,,,,,,,,,,,,End of private rented tenancy - not assured shorthold,Family or friends no longer willing or able to accommodate,Non-violent relationship breakdown with partner,Domestic abuse,Other violence or harrassment,,End of social rented tenancy,,,,,Eviction from supported housing,,,,,Left institution with no accommodation available,Required to leave accommodation provided by Home Office as asylum support,Other reasons / not known6
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Number of households
 ,,,,Total owed a prevention duty1,,"End of assured shorthold (AST) private rented tenancy, due to..",,,,,,,,,,,,,,,End of non-AST private rented tenancy,Family or friends no longer willing or able to accommodate,Non-violent relationship breakdown with partner,Domestic abuse,Other violence or harrassment,,"End of social rented tenancy, due to..",,,,,"Eviction from supported housing, due to..",,,,,Left institution with no accommodation available,Required to leave accommodation provided by Home Office as asylum support,Other reasons / not known5
-,,,,,,"Total end
- of AST",,Of which:,,,,,,,,,,,,,,,,,,,Total end of social rented tenancy,Of which:,,,,Total evicted from supported housing,Of which:,,,,,,
+,,,,,,Total end of AST,,Of which:,,,,,,,,,,,,,,,,,,,Total end of social rented tenancy,Of which:,,,,Total evicted from supported housing,Of which:,,,,,,
 ,,,,,,,,"Rent arrears, due to..",,,,,,"Breach of tenancy, not related to rent arrears",Landlord wishing to sell or re-let the property,Tenant complained to the council / agent / landlord about disrepair,Illegal eviction ,Tenant abandoned property,Other reasons / not known,,,,,,,,,Rent arrears2,"Breach of tenancy, not related to rent arrears",Other reasons / not known3,,,Rent arrears,"Breach of tenancy or licence, not related to rent arrears",Other reasons / not known4,,,,
-,,,,,,,,Tenant difficulty budgeting or making other payment(s) ,"Increase
- in rent  ",Reduction in employment income,"Changes
- in benefit entitlement",Change in personal circumstances ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-E92000001,ENGLAND,,,"31,800",,"11,790",,670,170,210,200,640,,200,"7,470",170,60,90,"1,900",,"1,480","8,550","1,540","2,240",520,,"1,510","1,000",110,390,,"1,200",110,390,690,,680,670,"1,640"
-E12000007,London,,,"5,850",,"2,420",,120,50,20,110,100,,20,"1,500",50,10,10,420,,300,"1,680",140,270,90,,350,280,10,60,,130,10,40,90,,60,90,330
--,Rest of England,,,"25,950",,"9,370",,550,120,190,100,540,,170,"5,970",120,50,80,"1,470",,"1,180","6,870","1,400","1,980",430,,"1,160",720,100,330,,"1,060",100,360,600,,620,580,"1,300"
+,,,,,,,,Tenant difficulty budgeting or making other payment(s) ,Increase in rent Â ,Reduction in employment income,Changes in benefit entitlement,Change in personal circumstances ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E92000001,ENGLAND,,,31800,,11790,,670,170,210,200,640,,200,7470,170,60,90,1900,,1480,8550,1540,2240,520,,1510,1000,110,390,,1200,110,390,690,,680,670,1640
+E12000007,London,,,5850,,2420,,120,50,20,110,100,,20,1500,50,10,10,420,,300,1680,140,270,90,,350,280,10,60,,130,10,40,90,,60,90,330
+-,Rest of England,,,25950,,9370,,550,120,190,100,540,,170,5970,120,50,80,1470,,1180,6870,1400,1980,430,,1160,720,100,330,,1060,100,360,600,,620,580,1300
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-E12000001,North East,,,"2,320",,580,,60,0,10,10,30,,10,330,10,10,10,110,,100,640,170,240,80,,100,50,0,40,,90,10,40,40,,50,140,130
-E12000002,North West,,,"4,350",,"1,570",,50,20,20,20,90,,30,"1,100",30,10,10,210,,240,"1,190",190,340,50,,180,120,20,50,,130,10,40,90,,110,160,180
-E12000003,Yorkshire and The Humber,,,"3,420",,"1,060",,80,10,20,10,50,,20,640,10,10,20,180,,80,"1,020",200,290,70,,150,70,20,60,,190,10,60,120,,120,120,120
-E12000004,East Midlands,,,"2,550",,"1,030",,60,10,30,10,40,,10,670,20,0,10,170,,80,640,160,190,30,,110,70,0,40,,110,10,40,60,,70,50,80
-E12000005,West Midlands,,,"2,590",,820,,30,10,20,10,50,,10,540,10,10,0,130,,120,680,130,280,60,,90,60,10,20,,130,10,40,80,,30,30,210
-E12000006,East of England,,,"3,160",,"1,210",,90,10,30,10,80,,30,770,10,0,10,180,,140,830,170,200,40,,200,140,20,40,,130,10,30,80,,50,30,160
-E12000007,London,,,"5,850",,"2,420",,120,50,20,110,100,,20,"1,500",50,10,10,420,,300,"1,680",140,270,90,,350,280,10,60,,130,10,40,90,,60,90,330
-E12000008,South East,,,"4,860",,"1,940",,140,40,30,20,140,,40,"1,170",20,10,10,330,,280,"1,250",250,270,70,,200,140,10,50,,160,30,60,70,,130,40,260
-E12000009,South West,,,"2,710",,"1,150",,50,20,30,10,50,,40,750,10,0,10,160,,130,610,130,160,40,,120,70,10,40,,130,20,50,50,,70,10,160
+E12000001,North East,,,2320,,580,,60,0,10,10,30,,10,330,10,10,10,110,,100,640,170,240,80,,100,50,0,40,,90,10,40,40,,50,140,130
+E12000002,North West,,,4350,,1570,,50,20,20,20,90,,30,1100,30,10,10,210,,240,1190,190,340,50,,180,120,20,50,,130,10,40,90,,110,160,180
+E12000003,Yorkshire and The Humber,,,3420,,1060,,80,10,20,10,50,,20,640,10,10,20,180,,80,1020,200,290,70,,150,70,20,60,,190,10,60,120,,120,120,120
+E12000004,East Midlands,,,2550,,1030,,60,10,30,10,40,,10,670,20,0,10,170,,80,640,160,190,30,,110,70,0,40,,110,10,40,60,,70,50,80
+E12000005,West Midlands,,,2590,,820,,30,10,20,10,50,,10,540,10,10,0,130,,120,680,130,280,60,,90,60,10,20,,130,10,40,80,,30,30,210
+E12000006,East of England,,,3160,,1210,,90,10,30,10,80,,30,770,10,0,10,180,,140,830,170,200,40,,200,140,20,40,,130,10,30,80,,50,30,160
+E12000007,London,,,5850,,2420,,120,50,20,110,100,,20,1500,50,10,10,420,,300,1680,140,270,90,,350,280,10,60,,130,10,40,90,,60,90,330
+E12000008,South East,,,4860,,1940,,140,40,30,20,140,,40,1170,20,10,10,330,,280,1250,250,270,70,,200,140,10,50,,160,30,60,70,,130,40,260
+E12000009,South West,,,2710,,1150,,50,20,30,10,50,,40,750,10,0,10,160,,130,610,130,160,40,,120,70,10,40,,130,20,50,50,,70,10,160
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 E07000223,Adur,,,9,,6,,0,0,0,0,0,,0,5,0,0,0,1,,0,2,0,1,0,,0,0,0,0,,0,0,0,0,,0,0,0
 E07000026,Allerdale,,,49,,13,,0,1,1,1,0,,0,9,0,0,0,1,,2,10,5,8,0,,4,1,0,3,,1,0,1,0,,1,0,5
@@ -334,11 +330,11 @@ E07000239,Wyre Forest,,,28,,13,,0,0,0,0,1,,0,11,0,0,0,1,,1,5,3,0,1,,0,0,0,0,,4,0
 E06000014,York,,,112,,38,,1,1,1,0,0,,1,27,0,0,1,6,,3,35,18,4,1,,2,1,1,0,,6,0,4,2,,4,0,1
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
- 1,"The outcome of the assessment whether the applicant is homeless or threatened with homelessness and what, if any, duty is owed to them by the local authority.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
- 2,"Includes rent arrears due to change in personal circumstances, increase in rent, reduction in employment income, changes in benefit entitlement, tenant difficulty budgeting or tenant making other payment(s)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
- 3,"Includes tenant abandoned property, other or not known.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
- 4,"Includes no longer eligible for supported housing, other or not known.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
- 5,"Includes fire / flood / other emergency, left HM forces, mortgage repossession, property disrepair, other or not known.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"The outcome of the assessment whether the applicant is homeless or threatened with homelessness and what, if any, duty is owed to them by the local authority.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,"Includes rent arrears due to change in personal circumstances, increase in rent, reduction in employment income, changes in benefit entitlement, tenant difficulty budgeting or tenant making other payment(s)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Includes tenant abandoned property, other or not known.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Includes no longer eligible for supported housing, other or not known.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Includes fire / flood / other emergency, left HM forces, mortgage repossession, property disrepair, other or not known.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,"Totals include estimates for Boston, Brent, Cambridge, Charnwood, Dudley, East Lindsey, East Riding of Yorkshire, Enfield, Halton, Havant, Hounslow, Kingston upon Hull, Newham, North Lincolnshire, Preston, Rugby, Slough, Stevenage, Welwyn Hatfield and Wolverhampton, who did not provide accurate data this quarter but have provided figures in previous quarters. These values were used to derive estimates.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Totals may not equal the sum of components because of rounding.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ..,incomplete or no data received from the local authority.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
